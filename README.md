@@ -1,6 +1,6 @@
 # The Initial Screening Order Problem
 
-This is the repository contains the script (under src/) and figures (under output/) discussed in Section 4. To run this script, only the programming language R is needed. The user can change the parameters to simulate multiple hiring problems under the ISO as formulated in Sections 2 and 3. 
+This is the repository for [*The Initial Screening Order Problem* (WSDM'25)](https://dl.acm.org/doi/10.1145/3701551.3703497). It contains the script (under src/) and figures (under output/) discussed in Section 4. Only the programming language R is needed. The user can change the parameters to simulate multiple hiring problems under the ISO as formulated in Sections 2 and 3. 
 
 ## References
 
